@@ -1,0 +1,9 @@
+/node_modules
+/functions
+/jobs
+/events
+/types
+/util
+/logs
+tsconfig.src.tsbuildinfo
+tsconfig.backend.tsbuildinfo
