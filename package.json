@@ -18,7 +18,7 @@
   "author": "Becomes",
   "dependencies": {
     "@becomes/cms-backend": "^2.0.39",
-    "@becomes/cms-bundler": "^2.0.5",
+    "@becomes/cms-bundler": "^2.0.6",
     "@becomes/cms-ui": "^2.0.43"
   },
   "devDependencies": {
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/becomesco/bcms-starter-blog.git"
+    "url": "git+https://github.com/becomesco/cms-starter-blog.git"
   },
   "bugs": {
-    "url": "https://github.com/becomesco/bcms-starter-blog/issues"
+    "url": "https://github.com/becomesco/cms-starter-blog/issues"
   },
-  "homepage": "https://github.com/becomesco/bcms-starter-blog#readme"
+  "homepage": "https://github.com/becomesco/cms-starter-blog#readme"
 }
