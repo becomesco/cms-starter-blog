@@ -1,11 +1,11 @@
 import { BCMSEventBuilder } from '@becomes/cms-backend';
 
-module.exports = BCMSEventBuilder({
+exports.event = BCMSEventBuilder({
   config: {
-    method: 'GET',
-    scope: 'Template',
+    method: 'ALL',
+    scope: 'TEMPLATE',
   },
-  handler: async (data: any) => {
+  handler: async (data) => {
     console.log('here', data);
   },
 });
